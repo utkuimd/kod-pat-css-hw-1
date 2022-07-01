@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    color: #333;
+    height: 100vh;
+    background-image: linear-gradient(to top right, #2b8dbb 0%, #f1e79c 100%);
+    align-items: center;
+    justify-items: center;
+
+}
+
+.toplink{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 41%;
+    overflow: hidden;
+}
+
+.toplinks{
+    float: left;
+    padding-left: 20px;
+    text-decoration: none;
+}
